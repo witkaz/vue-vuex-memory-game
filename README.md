@@ -1,5 +1,7 @@
 # memory-game
 
+### Powered by Vue Vixens workshop
+
 ## Project setup
 ```
 npm install
