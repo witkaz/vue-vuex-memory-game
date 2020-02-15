@@ -1,6 +1,7 @@
 # memory-game
 
 ### Powered by Vue Vixens workshop
+Used this workshops code to learn Vuex.
 
 ## Project setup
 ```
