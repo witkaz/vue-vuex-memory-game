@@ -2,7 +2,7 @@
 
 ### Powered by Vue Vixens workshop
 Used this workshops code to learn Vuex.
-
+https://workshops.vuevixens.org/workshop/
 ## Project setup
 ```
 npm install
